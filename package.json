@@ -1,0 +1,19 @@
+{
+  "name": "webrtcvideoconference",
+  "version": "1.0.0",
+  "description": "simple web client and node server to share realtime video and audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akdilshan/WebRTCVideoConference.git"
+  },
+  "author": "A.K Dilshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akdilshan/WebRTCVideoConference/issues"
+  },
+  "homepage": "https://github.com/akdilshan/WebRTCVideoConference#readme"
+}
